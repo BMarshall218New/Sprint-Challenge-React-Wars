@@ -5,3 +5,23 @@ body {
   background-image: url('./images/sw-bg.jpg');
   background-size: cover;
 }
+
+.container {
+  border: 2px solid greenyellow;
+}
+
+/* .bodytext {
+  border: 2px solid salmon;
+} */
+
+.cardBody {
+  border: 2px solid black;
+  font-size: 1.2em;
+  font-style: italic;
+}
+
+.title {
+  border: 2px solid salmon;
+  font-size: 2em;
+  font-family: Impact, Charcoal, sans-serif;
+}
